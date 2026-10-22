@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abdeljalal 👋
 
-<!--
-**abdeljalal99/abdeljalal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer based in Murcia, Spain. I build cloud platforms with Python, FastAPI and AWS.
 
-Here are some ideas to get you started:
+## What I work with
+- **Backend:** Python, FastAPI, Pydantic, SQLAlchemy, Django
+- **Cloud & events:** AWS (SNS, SQS, Lambda), PostgreSQL, Transactional Outbox
+- **DevOps:** Docker, GitLab CI, Terraform
+- **Observability:** Datadog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [he80-web-driver](https://github.com/abdeljalal99/he80-web-driver): an unofficial in-browser driver for the Epomaker HE80 keyboard, built with React, TypeScript and WebHID.
+
+## Beyond work
+I run a Proxmox home lab to experiment with virtualization and networking.
+
+## Links
+[Portfolio](https://abde.dev/) · [LinkedIn](https://www.linkedin.com/in/abdeljalal/)
